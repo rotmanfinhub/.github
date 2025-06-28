@@ -21,7 +21,6 @@ Top students from UofT Rotman, Engineering, and Computer Science
 
 Our data and compute resources include:
 ```Data
-
 Data: Proprietary data kept securely within UofT
 High-performance computing: NVIDIA GPU, Intel Xeon Gold, Threadripper PRO-powered environment, professionally managed by Rotman IT
 Large format storage with local + off-site redundancy
