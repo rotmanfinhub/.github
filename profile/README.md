@@ -35,4 +35,4 @@ Climate Risk Case Studies
 
 For more information, see [FinHub @ Rotman UofT](https://www.rotman.utoronto.ca/faculty-and-research/research-centres/finhub/).
 
-Interested in collaboration? Contact: [Ing-Haw Cheng](inghaw.cheng@utoronto.ca), Research Director, or [Andreas Park](andreas.park@utoronto.ca), Academic Director.
+Interested in collaboration? Contact: [Ing-Haw Cheng](https://inghawcheng.github.io), Research Director.
