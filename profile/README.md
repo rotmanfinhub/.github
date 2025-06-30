@@ -27,6 +27,12 @@ Large format storage with local + off-site redundancy
 Professionally managed by Rotman IT
 ```
 
+Our teaching and educational materials include:
+```Teaching
+Python for Business Educational Module
+Climate Risk Case Studies
+```
+
 For more information, see [FinHub @ Rotman UofT](https://www.rotman.utoronto.ca/faculty-and-research/research-centres/finhub/).
 
 Interested in collaboration? Contact: [Ing-Haw Cheng](inghaw.cheng@utoronto.ca), Research Director, or [Andreas Park](andreas.park@utoronto.ca), Academic Director.
