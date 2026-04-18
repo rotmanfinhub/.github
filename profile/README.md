@@ -6,6 +6,7 @@ FinHub advances knowledge at the frontier of finance and generate insights that 
 
 Our current research focuses on **applications of AI/ML** and **blockchain technology** to finance:
 ```Projects
+Agentic AI Trading
 Reinforcement Learning in Trading and Hedging Derivatives
 LLM and NLP Methods to Decode Markets
 Climate Finance Case Studies
